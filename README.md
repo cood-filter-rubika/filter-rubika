@@ -15,10 +15,8 @@
 
 # rm -rf Filter.py
 
-# git clone https://github.com/Filter-Rubika
+# git clone https://github.com/cood-filter-rubika/filter-rubika
 
-#   cd Filter-Rubik
+# cd filter-rubika
 
-#   chmod +x Filter.py
-
-#   python Filter.py
+# python filter.py
