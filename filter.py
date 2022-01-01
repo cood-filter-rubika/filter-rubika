@@ -302,10 +302,11 @@ print ("          THE END!")
 print("")
 print(""" (Update Kardan script) 👇:
 
-rm -rf Filter-Rubika
+rm -rf filter-rubika
+rm -rf filter.py
 
 
-git clone https://github.com/Filter-rubika
+git clone https://github.com/cood-filter-rubika/filter-rubika
 
 
 chmod +x Filter.py
