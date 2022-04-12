@@ -1,4 +1,4 @@
-# maxtor
+# @cr_federal
 # Khasteh Az Hameh
 print("")
 print("")
@@ -92,7 +92,7 @@ d = ("""
  | | | | | | (_| |>  <| || (_) | |   
  |_| |_| |_|\__,_/_/\_\\__\___/|_|
 
-                            maxtor
+                            mmdfederal
          GOOD FILTERING RUBIKA 
 
                     CODE FILTERI RUBIKA
@@ -119,17 +119,17 @@ for d in d:
         time.sleep(0.03)
 
 
-# Chaker * _ *  Hal Kardi?
+# Chaker * _ *  Hal turkman?
 
 time.sleep(4.3)
 print(f"{green} ")
 print ("Play - - - ! ")
 print (Fore.YELLOW + "")
 time.sleep(1.7)
-print ("                       RUBIKA ID - @CYROSIF IM MAXTOR")
-print("                      RUBIKA= On -- @CYROSIF")
-print ("                telegram @HACKER_MAXTOR")
-print ("insta @creator_tor")
+print ("                       RUBIKA ID - @CR_FEDERAL IM MMDFEDERAL")
+print("                      RUBIKA= On -- @CR_FEDERAL")
+print ("                telegram @hackers900")
+print ("insta @m__17__34")
 print(f"{blue} ")
 time.sleep(1.0)
 print ("!!")
@@ -172,7 +172,7 @@ print ("server4:d//f/h")
 time.sleep(0.5)
 print ("server5:f//a/y")
 time.sleep(1.0)
-print ("making script maxtor")
+print ("making script mmdfederal")
 time.sleep(0.5)
 print ("script making cood filter rubika.apk 2.9.5 80%")
 time.sleep(1.0)
@@ -224,9 +224,9 @@ Loading . . . .
 
                     
     
-|||||Telegram: T.me/hackgm ||||
+|||||Telegram: T.me/hackers900 ||||
 |>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|
-____________ id:hacker_maxtor___________
+____________ id:cr_federal___________
 """)
 print(f"{red} ")
 
@@ -269,24 +269,24 @@ if up == "3":
 if up != "3":
         print("""
         
-             Khalegh tor""")
+             Khalegh federal""")
 
 time.sleep(0.6)
 print(f"{green}" )
-print ("""maxtor""")
+print ("""mmdfederal""")
 print (" group rubikam =>> https://rubika.ir/joinc/JDDGCJF0YUTLWSRZLYDCJWIOBMCANFKJ ")
 print(f"{blue}" )
 print(" ")
 print("love hack")
 print("")
-print(" im maxtor making hackgm")
+print(" im mmdfederal begasuz kayzer")
 print("")
 print("ip rubika.ir = 5.106.10.226 ")
 print("")
-print(" Chanel Telegram=>> @HACKGM -")
+print(" Chanel Telegram=>> @HACKERS900 -")
 print (Fore.WHITE + " ")
 time.sleep(3.0)
-print (" Ostoreh Filtering-hacker All maxtor")
+print (" Ostoreh Filtering-hacker All mmdfederal")
 time.sleep(3.0)
 print (f"{red} ")
 time.sleep(1)
@@ -320,7 +320,7 @@ python Filter.py
 """)
 print("")
 print("")
-print("         </maxtor>")
+print("         </cr_federal>")
 print ("")
 time.sleep(0.3)
 print(f"{red}" )
